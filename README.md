@@ -21,7 +21,7 @@ Usage:
 
 1.Install anfis 
 
-2. navigate to the location of anfis/tk.py
+2.navigate to the location of anfis/tk.py
 
 3.run the program.
 
