@@ -1,4 +1,4 @@
-                                              Project name: Neuro fuzzy approach for diagnosis of depression
+Project name: Neuro fuzzy approach for diagnosis of depression
                                               
                                               
  Name: Prabhath
